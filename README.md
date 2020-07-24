@@ -15,12 +15,13 @@ Labore putant conclusionemque an eam. Ex ius nibh assum omnes, fuisset expetenda
 }
 .foo>* {
   flex: 1 1 auto;
+  padding: 1em;
 }
 .one {
   background: red;
 }
 .two {
-  backgrond: blue;
+  background: blue;
 }
 </style>
 <div class="foo">
